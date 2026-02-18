@@ -7,7 +7,7 @@ For me, the goal is simple: reduce chaos, avoid technical debt, and have a clear
 
 ## Workflow Diagram
 
-```mermaid
+```
 +----------------------------------+
 |          Define Vision           |
 +----------------------------------+
