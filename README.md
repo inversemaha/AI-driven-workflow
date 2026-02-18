@@ -1,11 +1,9 @@
 # AI-driven Workflow
 
-```
 This is my take on an AI-driven workflow — a way to structure projects before jumping into code. I like to start by clarifying the vision and motivation, writing SOP/SOW, and planning architecture, coding standards, and project structure. I also try to use AI wherever it can help with planning, documentation, or repetitive tasks.
 
 For me, the goal is simple: reduce chaos, avoid technical debt, and have a clear workflow that actually works in real projects. Markdown examples and clear guidelines help me stay on track.
 
-```
 
 ## Workflow Diagram
 
@@ -25,14 +23,14 @@ For me, the goal is simple: reduce chaos, avoid technical debt, and have a clear
 +----------------------------------+
                 |
                 v
-+----------------------------------+
-|  Set Coding Guidelines & Structure |
-+----------------------------------+
++-----------------------------------+
+| Set Coding Guidelines & Structure |
++-----------------------------------+
                 |
                 v
-+----------------------------------+
++--------------------------------------+
 | Document Repetitive Tasks & Examples |
-+----------------------------------+
++--------------------------------------+
                 |
                 v
 +----------------------------------+
